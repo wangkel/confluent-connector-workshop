@@ -90,4 +90,3 @@ services:
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=confluent2021
       - POSTGRES_DB=postgres
-    
